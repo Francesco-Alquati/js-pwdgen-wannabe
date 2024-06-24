@@ -3,4 +3,36 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+} 
+
+body{
+    background-color:#EFF2F5;
 }
+main{
+    height: 70vh;
+    width: 100%;
+    padding: 200px 0px;
+}
+footer{
+    height: 30vh;
+    background-color: #FFFFFF;
+}
+h1{
+    color: #0766FF;
+    font-size: 50px;
+}
+h3{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+
+#generated_password{
+
+    background-color: #ffebe8;
+    border: 1px solid #dd3c10;
+    text-align: center;
+    margin: 0px 400px;
+    padding: 50px;
+    font-size: 30px;
+}
+

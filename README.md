@@ -10,23 +10,13 @@ Oggi non avete un numero minimo di push da eseguire ma da domani sì.
 Bonus: se volete potete dare uno stile alla pagina.
 Buon lavoro!
 
-- Creare scaffholding per index.html
-Creare layout per index.html
-Definire i tag in html
-Definire le variabili in js
-Testare tramire la console il funzionamento delle variabili dichiarate
-? se è tutto corretto
-   vado avanti
-altrimenti 
-   torno in js e correggo gli errori
-inserire tramite js l'utlima operazione nell'esercizio
-? se è tutto corretto
-   vado avanti
-altrimenti 
-   torno in js e correggo gli errori
-(opzionale) Dare uno style alla pagina su style.css
-? se è tutto corretto
-   Fine esercizio
-altrimenti 
-   torno indietro e correggo gli errori.
+1 Creare scaffholding per index.html
+2 Creare un titolo per la pagina
+3 Creare 4 <p></p> con ID nel documento HTML per nome,cognome,colore preferito e password generata
+4 In script.js dichiarare le 4 variabili richieste tramite "let"
+5 Dare la possibilità all'utente di inserire come stringhe di testo i valori delle variabili tramite prompt
+6 Inserire quei valori e dei tag html all'interno dei <p></p> nel mio documento HTML avendo indicato i loro iD tramite document.getElementById('').innerHTML
+7 (bonus) Dare uno stile alla pagina
+
+
 
