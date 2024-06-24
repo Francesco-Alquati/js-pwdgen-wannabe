@@ -9,3 +9,24 @@ Come prima cosa da oggi realizzate un file README.md in cui scrivete il testo de
 Oggi non avete un numero minimo di push da eseguire ma da domani sì.
 Bonus: se volete potete dare uno stile alla pagina.
 Buon lavoro!
+
+- Creare scaffholding per index.html
+Creare layout per index.html
+Definire i tag in html
+Definire le variabili in js
+Testare tramire la console il funzionamento delle variabili dichiarate
+? se è tutto corretto
+   vado avanti
+altrimenti 
+   torno in js e correggo gli errori
+inserire tramite js l'utlima operazione nell'esercizio
+? se è tutto corretto
+   vado avanti
+altrimenti 
+   torno in js e correggo gli errori
+(opzionale) Dare uno style alla pagina su style.css
+? se è tutto corretto
+   Fine esercizio
+altrimenti 
+   torno indietro e correggo gli errori.
+
