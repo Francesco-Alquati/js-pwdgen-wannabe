@@ -15,7 +15,7 @@ Buon lavoro!
 3 Creare 4 <p></p> con ID nel documento HTML per nome,cognome,colore preferito e password generata
 4 In script.js dichiarare le 4 variabili richieste tramite "let"
 5 Dare la possibilità all'utente di inserire come stringhe di testo i valori delle variabili tramite prompt
-6 Inserire quei valori e dei tag html all'interno dei <p></p> nel mio documento HTML avendo indicato i loro iD tramite document.getElementById('').innerHTML
+6 Inserire quei valori e dei tag html all'interno dei <p></p> nel mio documento HTML, avendo indicato i loro iD, tramite document.getElementById('').innerHTML
 7 (bonus) Dare uno stile alla pagina
 
 
